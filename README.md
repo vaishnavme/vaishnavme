@@ -1,6 +1,6 @@
 ## Vaishnav Chandurkar 🌱
 
-I’m a full-stack engineer driven by curiosity and a genuine love for crafting meaningful digital experiences. I enjoy working across the entire stack - design systems, frontend, backend, and everything in between.
+I’m a Full-stack Engineer. I enjoy working across the entire stack, from design systems to frontend and backend, and everything in between.
 
 prev: Product Engineer @[Peerlist](https://peerlist.io)
 
