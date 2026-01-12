@@ -1,4 +1,13 @@
-## Hi there 👋
+## Vaishnav Chandurkar 🌱
+
+I’m a full-stack engineer driven by curiosity and a genuine love for crafting meaningful digital experiences. I enjoy working across the entire stack - design systems, frontend, backend, and everything in between.
+
+prev: Product Engineer @Peerlist
+
+### Find me
+vaishnavs.xyz
+peerlist.io/vaishnavs
+
 
 <!--
 **vaishnavme/vaishnavme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
