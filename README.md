@@ -2,7 +2,7 @@
 
 I’m a full-stack engineer driven by curiosity and a genuine love for crafting meaningful digital experiences. I enjoy working across the entire stack - design systems, frontend, backend, and everything in between.
 
-prev: Product Engineer @Peerlist
+prev: Product Engineer @[Peerlist](https://peerlist.io)
 
 ### Find me
 - [vaishnavs.xyz](https://vaishnavs.xyz)
