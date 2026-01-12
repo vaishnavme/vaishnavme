@@ -5,8 +5,8 @@ I’m a full-stack engineer driven by curiosity and a genuine love for crafting 
 prev: Product Engineer @Peerlist
 
 ### Find me
-vaishnavs.xyz
-peerlist.io/vaishnavs
+- [vaishnavs.xyz](https://vaishnavs.xyz)
+- [peerlist/vaishnavs](https://peerlist.io/vaishnavs)
 
 
 <!--
